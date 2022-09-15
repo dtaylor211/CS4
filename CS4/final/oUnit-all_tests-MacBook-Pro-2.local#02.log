@@ -1,0 +1,12 @@
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Start test all_tests:1:make: init_reachable.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Test all_tests:1:make: init_reachable is successful.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: End test all_tests:1:make: init_reachable.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Start test all_tests:4:place: bad input.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Test all_tests:4:place: bad input is successful.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: End test all_tests:4:place: bad input.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Start test all_tests:6:place: reachable.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Test all_tests:6:place: reachable is successful.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: End test all_tests:6:place: reachable.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Start test all_tests:8:undo: reachable.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: Test all_tests:8:undo: reachable is successful.
+2022-03-14T02:48:28+00:00 MacBook-Pro-2.local#02 I: End test all_tests:8:undo: reachable.

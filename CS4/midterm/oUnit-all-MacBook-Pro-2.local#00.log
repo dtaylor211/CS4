@@ -1,0 +1,119 @@
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Runner: processes
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Chooser: simple
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration suite_name = "all"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration cache_filename = "/Users/dallastaylor/Documents/junior/CS4/midterm/oUnit-$(suite_name).cache"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration run_gc_full_major = "true"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration display = "true"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration results_style_1_X = "false"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration testdata_dir = "none"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration health_check_interval = "1."
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration verbose = "false"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration chooser = "simple"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration output_html_dir = "none"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration processes_kill_period = "5."
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration runner = "processes"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration shards = "2"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration processes_grace_period = "5."
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration log_encoding = "utf-8"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration output_junit_file = "none"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration ci = "false"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Configuration output_file = "/Users/dallastaylor/Documents/junior/CS4/midterm/oUnit-$(suite_name)-$(shard_id).log"
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Using 2 workers maximum.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Starting worker number MacBook-Pro-2.local#01.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Worker MacBook-Pro-2.local#01 started.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Starting worker number MacBook-Pro-2.local#02.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Worker MacBook-Pro-2.local#02 started.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:1:Problem A.2, all:0:Problem A.1.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Start test all:0:Problem A.1.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:1:Problem A.2, all:0:Problem A.1.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Test all:0:Problem A.1 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:1:Problem A.2, all:0:Problem A.1.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: End test all:0:Problem A.1.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:1:Problem A.2, all:0:Problem A.1.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:2:Problem A.3, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Start test all:2:Problem A.3.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:2:Problem A.3, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:2:Problem A.3, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Test all:2:Problem A.3 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:2:Problem A.3, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: End test all:2:Problem A.3.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:2:Problem A.3, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:3:Problem A.4, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Start test all:3:Problem A.4.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:3:Problem A.4, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:1:Problem A.2 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:3:Problem A.4, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:3:Problem A.4, all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:4:Problem A.5, all:3:Problem A.4.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:4:Problem A.5, all:3:Problem A.4.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Test all:3:Problem A.4 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:4:Problem A.5, all:3:Problem A.4.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: End test all:3:Problem A.4.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:4:Problem A.5, all:3:Problem A.4.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:5:Problem A.6, all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:4:Problem A.5 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:5:Problem A.6, all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:5:Problem A.6, all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Start test all:5:Problem A.6.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:6:Problem B.1: search, all:5:Problem A.6.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:6:Problem B.1: search.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:6:Problem B.1: search, all:5:Problem A.6.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Test all:5:Problem A.6 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:6:Problem B.1: search, all:5:Problem A.6.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: End test all:5:Problem A.6.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:6:Problem B.1: search, all:5:Problem A.6.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:6:Problem B.1: search is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:7:Problem B.2: rotate, all:6:Problem B.1: search.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:6:Problem B.1: search.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Start test all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:7:Problem B.2: rotate, all:6:Problem B.1: search.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 2 tests running : all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 2 tests running : all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: Test all:7:Problem B.2: rotate is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 2 tests running : all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#01 I: End test all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 2 tests running : all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 2 tests running: all:8:Problem B.3: insert, all:7:Problem B.2: rotate.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 1 tests running : all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 1 tests running: all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:8:Problem B.3: insert is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 1 tests running : all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 1 tests running: all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Still 1 tests running : all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 1 tests running: all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: 0 tests running: .
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Worker MacBook-Pro-2.local#01 has ended.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Worker MacBook-Pro-2.local#02 has ended.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Used 2 worker during test execution.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Run 5 tests with shard MacBook-Pro-2.local#01.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Run 4 tests with shard MacBook-Pro-2.local#02.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Check health of shard MacBook-Pro-2.local#01, 4 times.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Check health of shard MacBook-Pro-2.local#02, 1 times.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: ==============
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Summary:
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:8:Problem B.3: insert is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:7:Problem B.2: rotate is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:6:Problem B.1: search is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:5:Problem A.6 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:4:Problem A.5 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:3:Problem A.4 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:1:Problem A.2 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:2:Problem A.3 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Test all:0:Problem A.1 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Ran: 9 tests in: 0.11 seconds.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Cases: 9.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Tried: 9.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Errors: 0.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Failures: 0.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Skip: 0.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Todo: 0.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#00 I: Timeout: 0.

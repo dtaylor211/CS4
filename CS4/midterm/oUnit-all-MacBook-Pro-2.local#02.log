@@ -1,0 +1,12 @@
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:1:Problem A.2 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:1:Problem A.2.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:4:Problem A.5 is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:4:Problem A.5.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:6:Problem B.1: search.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:6:Problem B.1: search is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:6:Problem B.1: search.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Start test all:8:Problem B.3: insert.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: Test all:8:Problem B.3: insert is successful.
+2022-02-18T07:56:48+00:00 MacBook-Pro-2.local#02 I: End test all:8:Problem B.3: insert.
